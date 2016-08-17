@@ -1,0 +1,14 @@
+{
+  "appname": "Connor Repo 0817",
+  "scope": "FullAccess",
+  "clientid": "CDEE0FB7-A78A-4F84-AF8C-8AFE2971206D",
+  "buyerid": "Buyer0817",
+  "environment": "prod",
+  "anonymous": false,
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
